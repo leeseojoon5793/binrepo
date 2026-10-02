@@ -1,0 +1,65 @@
+[33mcommit cbe2db57ec4607d9d47112a8627e8143dc531572[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/sub[m[33m, [m[1;31morigin/feature/sub[m[33m)[m
+Author: leeseojoon5793 <alcls03092@gmail.com>
+Date:   Sat Oct 3 01:49:51 2026 +0900
+
+    util기능 수정
+
+[33mcommit 656cab149043977ca7c266016ff2b2fffb42a620[m
+Author: leeseojoon5793 <alcls03092@gmail.com>
+Date:   Sat Oct 3 01:45:40 2026 +0900
+
+    빼기 기능 추가
+
+[33mcommit 28f7ee1664378d9d481986d2aa2d668e6fd3f393[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/deploy[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: c33f1ff 80125e4
+Author: leeseojoon5793 <alcls03092@gmail.com>
+Date:   Sat Oct 3 01:10:23 2026 +0900
+
+    Merge pull request #2 from leeseojoon5793/tmp2
+    
+    Tmp2
+
+[33mcommit 80125e4e8956201865de0ce032a6263677915568[m
+Author: leeseojoon5793 <alcls03092@gmail.com>
+Date:   Sat Oct 3 01:07:28 2026 +0900
+
+    modify structure
+
+[33mcommit 42bc02eaf68d5d0e75e4536fbbf499462bfabd37[m
+Author: leeseojoon5793 <alcls03092@gmail.com>
+Date:   Sat Oct 3 00:58:45 2026 +0900
+
+    modify structure
+
+[33mcommit c33f1ff909c9441662cea381caf8a29186d84297[m
+Merge: dc3159b be21f10
+Author: leeseojoon5793 <alcls03092@gmail.com>
+Date:   Sat Oct 3 00:50:39 2026 +0900
+
+    Merge pull request #1 from leeseojoon5793/tmp2
+    
+    add util.py
+
+[33mcommit be21f10fc18e8d703d47a474e8a1670d92419db7[m
+Author: leeseojoon5793 <alcls03092@gmail.com>
+Date:   Sat Oct 3 00:36:56 2026 +0900
+
+    add util.py
+
+[33mcommit dc3159bb0e96d27b021b56a74805c483f186a029[m
+Author: leeseojoon5793 <alcls03092@gmail.com>
+Date:   Fri Oct 2 23:49:22 2026 +0900
+
+    modify main.py
+
+[33mcommit 29f7f861113d08fbbde1f52d0bdb576e7bee93a7[m
+Author: leeseojoon5793 <alcls03092@gmail.com>
+Date:   Fri Oct 2 23:34:42 2026 +0900
+
+    make main.py
+
+[33mcommit c1904ad16ec9beb5e24d1cb6665ccbeb620d869b[m
+Author: leeseojoon5793 <alcls03092@gmail.com>
+Date:   Fri Oct 2 23:03:57 2026 +0900
+
+    Initial commit
